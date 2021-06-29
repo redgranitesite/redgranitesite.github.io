@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://redgranite.github.io</homePageLink>
+		<homePageLink>https://redgranitesite.github.io</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://redgranite.github.io/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://redgranite.github.io/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://redgranite.github.io/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://redgranite.github.io/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://redgranite.github.io/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://redgranitesite.github.io/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://redgranitesite.github.io/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://redgranitesite.github.io/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://redgranitesite.github.io/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://redgranitesite.github.io/wp-json/" />
 			</apis>
 	</service>
 </rsd>

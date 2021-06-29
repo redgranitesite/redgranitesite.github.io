@@ -1,30 +1,30 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Jun 2021 13:48:46 at https://redgranite.github.io +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-redgranite.github.ioredgranite.github.io
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Jun 2021 13:48:46 at https://redgranitesite.github.io +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+redgranitesite.github.ioredgranitesite.github.io
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://redgranite.co.zw -O1 "C:\My Web Sites\http___redgranite.co.zw" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
 Information, Warnings and Errors reported for this mirror:
 
-note:	the hts-log.txt file, and redgranite.github.io, may contain sensitive information,
-redgranite.github.io
-	such as username/password authenticatiredgranite.github.iomirrored in this redgranite.github.io
-redgranite.github.io
-	do not share these files/folders if yoredgranite.github.ioormation to remairedgranite.github.io
-redgranite.github.io
-redgranite.github.ioredgranite.github.io
-redgranite.github.io
-13:48:47	Warning: 	Note: due to redgranredgranite.github.io robots.txt rulesredgranite.github.iog with these path will be forbidden: /wp-admin/ (see in the options to disable this)
-redgranite.github.io
-13:53:07	Warning: 	Moved Permanently foredgranite.github.iozw/?p=16redgranite.github.io
-redgranite.github.io
-13:53:07	Warning: 	File has moved from redgranite.github.io/?p=16 to https://redgranite.github.io/business-units/
-redgranite.github.ioredgranite.github.io
-13:53:07	Warning: 	Moved Permanently for redgranite.co.zw/?p=52redgranite.github.ioredgranite.github.io
-redgranite.github.io
-13:53:07	Warning: 	File has moved from redgranite.github.io/?p=52 to http://rredgranite.github.iobusiness-units/gold-mining/
-redgranite.github.io
-13:53:07	Warning: 	Moved Permanently foredgranite.github.iozw/?p=62redgranite.github.io
+note:	the hts-log.txt file, and redgranitesite.github.io, may contain sensitive information,
+redgranitesite.github.io
+	such as username/password authenticatiredgranitesite.github.iomirrored in this redgranitesite.github.io
+redgranitesite.github.io
+	do not share these files/folders if yoredgranitesite.github.ioormation to remairedgranitesite.github.io
+redgranitesite.github.io
+redgranitesite.github.ioredgranitesite.github.io
+redgranitesite.github.io
+13:48:47	Warning: 	Note: due to redgranredgranitesite.github.io robots.txt rulesredgranitesite.github.iog with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+redgranitesite.github.io
+13:53:07	Warning: 	Moved Permanently foredgranitesite.github.iozw/?p=16redgranitesite.github.io
+redgranitesite.github.io
+13:53:07	Warning: 	File has moved from redgranitesite.github.io/?p=16 to https://redgranitesite.github.io/business-units/
+redgranitesite.github.ioredgranitesite.github.io
+13:53:07	Warning: 	Moved Permanently for redgranite.co.zw/?p=52redgranitesite.github.ioredgranitesite.github.io
+redgranitesite.github.io
+13:53:07	Warning: 	File has moved from redgranitesite.github.io/?p=52 to http://rredgranitesite.github.iobusiness-units/gold-mining/
+redgranitesite.github.io
+13:53:07	Warning: 	Moved Permanently foredgranitesite.github.iozw/?p=62redgranitesite.github.io
 
 13:53:07	Warning: 	File has moved from redgranite.co.zw/?p=62 to http://redgranite.co.zw/business-units/quarry/
 
