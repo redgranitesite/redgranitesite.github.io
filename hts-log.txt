@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Jun 2021 13:48:46 at https://redgranite.github.io +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+redgranite.github.ioredgranite.github.io
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://redgranite.co.zw -O1 "C:\My Web Sites\http___redgranite.co.zw" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and redgranite.github.io, may contain sensitive information,
+redgranite.github.io
+	such as username/password authenticatiredgranite.github.iomirrored in this redgranite.github.io
+redgranite.github.io
+	do not share these files/folders if yoredgranite.github.ioormation to remairedgranite.github.io
+redgranite.github.io
+redgranite.github.ioredgranite.github.io
+redgranite.github.io
+13:48:47	Warning: 	Note: due to redgranredgranite.github.io robots.txt rulesredgranite.github.iog with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+redgranite.github.io
+13:53:07	Warning: 	Moved Permanently foredgranite.github.iozw/?p=16redgranite.github.io
+redgranite.github.io
+13:53:07	Warning: 	File has moved from redgranite.github.io/?p=16 to https://redgranite.github.io/business-units/
+redgranite.github.ioredgranite.github.io
+13:53:07	Warning: 	Moved Permanently for redgranite.co.zw/?p=52redgranite.github.ioredgranite.github.io
+redgranite.github.io
+13:53:07	Warning: 	File has moved from redgranite.github.io/?p=52 to http://rredgranite.github.iobusiness-units/gold-mining/
+redgranite.github.io
+13:53:07	Warning: 	Moved Permanently foredgranite.github.iozw/?p=62redgranite.github.io
+
+13:53:07	Warning: 	File has moved from redgranite.co.zw/?p=62 to http://redgranite.co.zw/business-units/quarry/
+
+13:53:11	Warning: 	Moved Permanently for redgranite.co.zw/?p=20
+
+13:53:11	Warning: 	File has moved from redgranite.co.zw/?p=20 to http://redgranite.co.zw/careers/
+
+13:53:11	Warning: 	Moved Permanently for redgranite.co.zw/?p=14
+
+13:53:11	Warning: 	File has moved from redgranite.co.zw/?p=14 to http://redgranite.co.zw/about-us/
+
+13:55:00	Warning: 	Moved Permanently for redgranite.co.zw/?p=22
+
+13:55:00	Warning: 	File has moved from redgranite.co.zw/?p=22 to http://redgranite.co.zw/contacts-us/
+
+13:55:00	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/http___redgranite.co.zw/redgranite.co.zw/wp-content/plugins/wp-job-manager/assets/dist/font/job-manager-aa916d5b5333755f80564e47a7f7a89f.svg
+
+13:55:00	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/http___redgranite.co.zw/redgranite.co.zw/wp-content/plugins/wp-job-manager/assets/dist/font/jm-logo/jm-04f818ce1471720fb214394b96feb5de.svg
+
+13:55:00	Warning: 	Moved Permanently for redgranite.co.zw/?p=127
+
+13:55:00	Warning: 	File has moved from redgranite.co.zw/?p=127 to http://redgranite.co.zw/download/pote-holdings-profile/
+
+13:55:10	Warning: 	Moved Permanently for redgranite.co.zw/?p=1
+
+13:55:10	Warning: 	File has moved from redgranite.co.zw/?p=1 to http://redgranite.co.zw/2021/05/27/hello-world/
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 27 seconds : 137 links scanned, 128 files written (11619252 bytes overall) [11675013 bytes received at 30167 bytes/sec], 3.0 requests per connection
+
+(No errors, 19 warnings, 0 messages)
+
